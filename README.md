@@ -10,9 +10,9 @@
   <p align="center">
   <a href="https://www.linkedin.com/in/aditya-rastogi-5931b628a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-rastogi" height="30" width="40" /></a>
   <a href="https://instagram.com/imaadi39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imaadi39" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/zeal_whisk_20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditya rastogi" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/aditya1817/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya-rastogi" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/aadirash60j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aditya-rastogi" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/zeal_whisk_20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditya rastogi" height="30" width="40" /></a>
   </p> 
 </div>
 
