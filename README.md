@@ -1,5 +1,9 @@
-# 💫 About Me:
-I'm a 3rd year B.Tech CSE (specialization in AI & ML) student from VIT Bhopal.
+<h1 align="center">  Hi 👋, I'm Aditya Rastogi </h1> 
+
+💫 About Me:
+- 🎓 I'm a 3rd year B.Tech CSE Student.         
+- 🌱 I’m currently learning MERN Stack and AWS.      
+- 👯 I’m looking to collaborate with open-source enthusiasts. 
 
 # 🌐 Connect with me:
 <div align="center">
