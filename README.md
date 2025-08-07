@@ -13,6 +13,7 @@
   <a href="https://leetcode.com/u/aditya1817/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya-rastogi" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/aadirash60j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aditya-rastogi" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/zeal_whisk_20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditya rastogi" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/aadirastogi5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aadirastogi5" height="30" width="40" /></a>
   </p> 
 </div>
 
